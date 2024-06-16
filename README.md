@@ -9,7 +9,7 @@ I'm a web developer with a passion for backend development. I enjoy working on p
 - 🔭 I’m currently working on Web Development Backend
 - 🌱 I’m currently learning Backend Development
 - 💬 Ask me about Web Development
-- 📫 How to reach me: <[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/papiabhowmik)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/papiabhowmik)
 
 ## 🛠️ Technologies & Tools
 
