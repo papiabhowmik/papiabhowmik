@@ -1,12 +1,7 @@
 ![Header](https://your-image-url.com/header-image.png)
 <h1 align="center"Welcome To My Profile</h1>
   
-# Hi there 👋, I'm Papia Bhowmik
-
-[![Website](https://img.shields.io/badge/Website-yourwebsite.com-blue?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/yourtwitter)
-
+<h1  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Papia+Bhowmik;A+passionate+Web+developer,;2nd+Year+MCA+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></h1>
 ---
 
 ## 🚀 About Me
