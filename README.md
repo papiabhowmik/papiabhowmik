@@ -12,16 +12,19 @@ I'm a web developer with a passion for backend development. I enjoy working on p
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/papiabhowmik)
 
 ## 🛠️ Technologies & Tools
-
+![Java](https://img.shields.io/badge/-Java-333?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-333?style=flat-square&logo=django)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat-square&logo=amazon-aws)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb)
+![Express](https://img.shields.io/badge/-Express-333?style=flat-square&logo=express)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3)
 
 ## 📈 GitHub Stats
 
